@@ -1,5 +1,5 @@
 $(window).on('load', function(){
-    $('#header').vide('./video/cover', {
+    $('#header').vide('./video/rey', {
         bgColor: '#141D25'
     })
 })
